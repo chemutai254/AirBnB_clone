@@ -12,7 +12,7 @@
 - Create all unittests to validate all our classes and storage engine.
 ---
 
-**Command Interpreter**
+**Command Interpreter:**
 The Command interpreter manages the objects of our project by:
 - Creating a new object.
 - Retrieving an object from the file, a database etc...
