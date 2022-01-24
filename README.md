@@ -21,7 +21,7 @@ The Command interpreter manages the objects of our project by:
 - Destroying an object.
 ---
 
-**How to start a command intepreter**
+**How to start a command interpreter**
 
 ---
 
