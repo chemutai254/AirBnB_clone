@@ -1,6 +1,9 @@
 ## 0x00. AirBnB clone - The console
+---
 **README,AUTHORS**
 - This project aims at developing a web application with HTML/CSS templating, database storage, API and front-end integration.
+---
+
 **Each task is linked and will help:**
 - Put in place a parent class to take care of initialization, serialization and deserialization of the future instances.
 - Create a simple flow of serialization/deserialization: instance <-> Dictionary <-> JSON string <-> file.
