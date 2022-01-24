@@ -10,3 +10,25 @@
 - Create all classes used for AirBnB (User, State, City, Place) that inherit from the parent class.
 - Create the first abstract storage engine of the project File storage.
 - Create all unittests to validate all our classes and storage engine.
+---
+
+**Command Interpreter**
+The Command interpreter manages the objects of our project by:
+- Creating a new object.
+- Retrieving an object from the file, a database etc...
+- Doing operations on objects such as count, compute stats etc...
+- Updating attributes of an object.
+- Destroying an object.
+---
+
+**How to start a command intepreter**
+
+---
+
+**How to use the command interpreter**
+
+---
+
+**Examples**
+
+---
