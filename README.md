@@ -30,5 +30,3 @@ The Command interpreter manages the objects of our project by:
 ---
 
 **Examples**
-
----
